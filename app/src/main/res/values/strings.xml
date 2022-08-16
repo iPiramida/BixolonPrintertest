@@ -1,0 +1,12 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Bixolon printer test</string>
+    <string name="menu_connect_bluetooth">Connect Bluetooth</string>
+    <string name="notice">notice</string>
+    <string name="grant_permission">You must grant permission to use app</string>
+    <string name="exit">exit</string>
+    <string name="set_permission">set permission</string>
+
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_connecting">connecting&#8230;</string>
+    <string name="title_not_connected">not connected</string>
+</resources>
